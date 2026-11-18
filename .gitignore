@@ -1,0 +1,6 @@
+application/config/database.php
+jwc_config.php
+file_editor.php
+application/logs/*
+!application/logs/index.html
+.DS_Store
